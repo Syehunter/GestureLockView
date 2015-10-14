@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:gesture="http://schemas.android.com/apk/res-auto"
     android:id="@+id/ll"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    >
 
     <TextView
         android:id="@+id/tv"
@@ -21,6 +21,9 @@
 
     <com.sye.library.GestureLockView
         android:id="@+id/gestureLockView"
+        gesture:bitmapError="@mipmap/error"
+        gesture:bitmapNormal="@mipmap/normal"
+        gesture:bitmapSelect="@mipmap/select"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
         android:layout_width="match_parent"
