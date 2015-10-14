@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GestureLockView">
+        <attr name="bitmapError" format="reference"/>
+        <attr name="bitmapSelect" format="reference"/>
+        <attr name="bitmapNormal" format="reference"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="strokeWidth" format="dimension"/>
+    </declare-styleable>
+</resources>
