@@ -1,5 +1,6 @@
 # GestureLockView
 
+Frames stuck because of the Genymotion，，，，wtf=。=
 ![](http://7xn4z4.com1.z0.glb.clouddn.com/GestureLockViewDemo.gif)
 
 **Usage:**<br/>
