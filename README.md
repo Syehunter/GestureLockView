@@ -1,5 +1,7 @@
 # GestureLockView
 
+![](http://7xn4z4.com1.z0.glb.clouddn.com/GestureLockViewDemo.gif)
+
 **Usage:**<br/>
 Add the JitPack repository to your build file:
 
